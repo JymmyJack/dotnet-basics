@@ -1,0 +1,13 @@
+/home/jymmy/netsamples/bin/Debug/netcoreapp3.1/netsamples
+/home/jymmy/netsamples/bin/Debug/netcoreapp3.1/netsamples.deps.json
+/home/jymmy/netsamples/bin/Debug/netcoreapp3.1/netsamples.runtimeconfig.json
+/home/jymmy/netsamples/bin/Debug/netcoreapp3.1/netsamples.runtimeconfig.dev.json
+/home/jymmy/netsamples/bin/Debug/netcoreapp3.1/netsamples.dll
+/home/jymmy/netsamples/bin/Debug/netcoreapp3.1/netsamples.pdb
+/home/jymmy/netsamples/obj/Debug/netcoreapp3.1/netsamples.csprojAssemblyReference.cache
+/home/jymmy/netsamples/obj/Debug/netcoreapp3.1/netsamples.csproj.CoreCompileInputs.cache
+/home/jymmy/netsamples/obj/Debug/netcoreapp3.1/netsamples.AssemblyInfoInputs.cache
+/home/jymmy/netsamples/obj/Debug/netcoreapp3.1/netsamples.AssemblyInfo.cs
+/home/jymmy/netsamples/obj/Debug/netcoreapp3.1/netsamples.dll
+/home/jymmy/netsamples/obj/Debug/netcoreapp3.1/netsamples.pdb
+/home/jymmy/netsamples/obj/Debug/netcoreapp3.1/netsamples.genruntimeconfig.cache
